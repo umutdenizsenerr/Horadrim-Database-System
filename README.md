@@ -10,9 +10,13 @@ This project implements a software that provides a database system for Horadrim.
 
 1. Clone or download this repository.
 2. Install the required dependencies by running the following command:
+```
 pip3 install numpy
+```
 3. Run the software using the following command:
+```
 python3 2018400225_2019400063/src/horadrimSoftware.py inputFile outputFile
+```
 
 Where inputFile is the path to the input file and outputFile is the path to the output file.
 
